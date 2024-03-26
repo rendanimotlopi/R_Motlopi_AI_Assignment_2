@@ -22,3 +22,4 @@ The key idea behind the Boids simulation is that complex group behavior can emer
 5. Steering Behaviors: In addition to the basic rules of separation, alignment, and cohesion, Boids simulations may incorporate additional steering behaviors to model more complex movements. These behaviors include seeking a target, avoiding obstacles, following paths, and evading predators.
 
 6. Parameter Tuning: Fine-tuning the parameters of the behavioral rules and simulation environment is crucial for achieving realistic and desired collective behaviors. Adjusting parameters such as vision range, speed, and influence weights can significantly impact the outcome of the simulation.
+## Video simulation
