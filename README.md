@@ -26,5 +26,10 @@ The key idea behind the Boids simulation is that complex group behavior can emer
 
 [![Watch the video](https://img.shields.io/badge/Watch%20the%20video-Click%20here-red)](https://www.youtube.com/watch?v=EVGjxpTgxFU)
 
+## How to run the code
+1. Make sure that Python and Pygame are installed on your local machine.
+2. You can install pygame via pip: pip install pygame
+3. Copy the prodided code on my Github and pasted it on your python IDE, then have fun.
+
 
 
