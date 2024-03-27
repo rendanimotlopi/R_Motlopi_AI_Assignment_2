@@ -24,5 +24,7 @@ The key idea behind the Boids simulation is that complex group behavior can emer
 6. Parameter Tuning: Fine-tuning the parameters of the behavioral rules and simulation environment is crucial for achieving realistic and desired collective behaviors. Adjusting parameters such as vision range, speed, and influence weights can significantly impact the outcome of the simulation.
 ## Video simulation-code
 [![Video of the code](https://img.youtube.com/vi/tmdyDCHwogg.jpg)](https://www.youtube.com/watch?v=tmdyDCHwogg)
+[![Watch the video](https://img.shields.io/badge/Watch%20the%20video-Click%20here-red)](https://www.youtube.com/watch?v=EVGjxpTgxFU)
+
 
 
